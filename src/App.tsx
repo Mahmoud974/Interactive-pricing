@@ -9,9 +9,9 @@ const App = () => {
 
 
   return (
-   <div className="flex items-center flex-col justify-center h-screen bg-[url('img/bg-pattern.svg')] bg-no-repeat bg-auto bg-left-top ">
-     <div className="flex flex-col text-center my-4 text-[EAEEFB] bg-[url('img/pattern-circles.svg')] bg-no-repeat bg-contain md:h-28 bg-center ">
-        <h1 className="font-bold text-xl md:text-2xl pt-6">Simple, traffic-based pricings</h1>
+   <div className="flex items-center flex-col justify-center h-screen bg-[url('/img/bg-pattern.svg')] bg-no-repeat bg-auto bg-left-top ">
+     <div className="flex flex-col text-center my-4 text-[EAEEFB] bg-[url('/img/pattern-circles.svg')] bg-no-repeat bg-contain md:h-28 bg-center ">
+        <h1 className="font-bold text-xl md:text-2xl pt-6">Simple, traffic-based pricing</h1>
       <div className="md:flex items-center justify-center md:mt-2 ">
           <h2 className="text-xs md:mt-0 mt-3">Sign-up for our 30-day trial.</h2>
         <h2 className="text-xs mt-2 md:mt-0 md:ml-1 ml-0">No credit card required</h2>

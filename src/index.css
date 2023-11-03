@@ -12,7 +12,7 @@ input[type="range"]::-webkit-slider-thumb {
             appearance: none;
             padding: 12px;
             width: 90px;
-            background: url('img/icon-slider.svg') #61d4c9 center center no-repeat ;
+            background: url('/img/icon-slider.svg') #61d4c9 center center no-repeat ;
             background-size: contain;
             cursor: pointer;
             box-shadow: 0 0 30px #66e1d5
